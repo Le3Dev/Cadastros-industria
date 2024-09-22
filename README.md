@@ -1,1 +1,1 @@
-Esse projeto foi para a disciplina raciocinio algoritmico, consiste em um sistema de cadastro que ao realizar todos os cadastros mostra um relatorio no final com tudo que foi selecionado e escrito
+Esse projeto foi para a disciplina raciocinio algoritmico, consiste em um sistema de cadastro que ao realizar todos os cadastros mostra um relatorio no final com tudo que foi selecionado e escrito, projeto feito por mim e pelo meu grupo de 5 integrantes que foram funcamentais para o desenvolvimento do projeto
