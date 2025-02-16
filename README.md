@@ -1,3 +1,6 @@
+
+<h1>Sistema de cadastro de industria</h1>
+
 Este projeto foi desenvolvido para a disciplina de Raciocínio Algorítmico e consiste em um sistema de cadastro que, após a inserção dos dados, gera um relatório final detalhado com todas as informações selecionadas e registradas.
 
 O desenvolvimento foi realizado em equipe, contando com a colaboração essencial de um grupo de cinco integrantes, cuja contribuição foi fundamental para o sucesso do projeto.
